@@ -1,3 +1,5 @@
+import "./tasks/interact"; // may not be needed on codespace
+import "./tasks/deploy"; // may not be needed on codespace
 import "@nomicfoundation/hardhat-toolbox";
 import "@zetachain/toolkit/tasks";
 
