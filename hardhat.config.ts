@@ -1,7 +1,11 @@
-import "./tasks/interact";
+import "./tasks/stake";
+import "./tasks/claim";
+import "./tasks/unstake";
+import "./tasks/beneficiary";
+import "./tasks/withdraw";
+import "./tasks/unstake";
+import "./tasks/address";
 import "./tasks/deploy";
-import "./tasks/interact"; // may not be needed on codespace
-import "./tasks/deploy"; // may not be needed on codespace
 import "@nomicfoundation/hardhat-toolbox";
 import "@zetachain/toolkit/tasks";
 
